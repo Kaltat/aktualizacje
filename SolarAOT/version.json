@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.5.22",
+  "version": "1.5.23",
   "downloadUrl": "https://github.com/Kaltat/aktualizacje/raw/main/SolarAOT/solar_aot.apk",
-  "releaseNotes": "Naprawiono system aktualizacji. Przejście na publiczne repozytorium aktualizacji oraz dodanie FileProvider."
+  "releaseNotes": "TEST AKTUALIZACJI: Wersja 1.5.23. Jeśli to widzisz, system aktualizacji działa poprawnie!"
 }
