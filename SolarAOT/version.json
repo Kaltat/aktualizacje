@@ -1,5 +1,5 @@
 {
-    "version":  "1.5.24",
+    "version":  "1.5.25",
     "downloadUrl":  "https://github.com/Kaltat/aktualizacje/raw/main/SolarAOT/solar_aot.apk",
-    "releaseNotes":  "Wersja 1.5.24: poprawiono mechanizm aktualizacji i obsługę kodowania pliku version.json."
+    "releaseNotes":  "Wersja 1.5.25: aktualizacja wersji i daty kompilacji."
 }
