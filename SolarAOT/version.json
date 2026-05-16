@@ -1,5 +1,5 @@
 {
-  "version": "1.5.10",
-  "downloadUrl": "https://czach.pl/tmp/app-release.apk",
-  "releaseNotes": "Zmniejszono czcionke w oknie pobierania."
+    "version":  "1.5.10",
+    "downloadUrl":  "https://czach.pl/tmp/app-release.apk",
+    "releaseNotes":  "Zmniejszono czcionke w oknie pobierania."
 }
