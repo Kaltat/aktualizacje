@@ -1,5 +1,5 @@
 {
-    "version":  "1.5.28",
-    "downloadUrl":  "https://github.com/Kaltat/aktualizacje/raw/main/SolarAOT/solar_aot_v1.5.28.apk",
-    "releaseNotes":  "Wersja 1.5.28: poprawka widgetu + test aktualizacji."
+    "version":  "1.5.29",
+    "downloadUrl":  "https://github.com/Kaltat/aktualizacje/raw/main/SolarAOT/solar_aot_v1.5.29.apk",
+    "releaseNotes":  "Wersja 1.5.29: zaokrąglone rogi widgetu i poprawki builda Android."
 }
