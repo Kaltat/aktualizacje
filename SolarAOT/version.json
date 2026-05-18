@@ -1,5 +1,5 @@
 {
-    "version":  "1.5.30",
+    "version":  "1.5.31",
     "downloadUrl":  "https://github.com/Kaltat/aktualizacje/raw/main/SolarAOT/solar_aot.apk",
-    "releaseNotes":  "Wersja 1.5.30: poprawki konfiguracji i aktualizacja informacji o źródle danych."
+    "releaseNotes":  "Wersja 1.5.31: odświeżanie widgetu po odblokowaniu ekranu + odświeżanie okresowe."
 }
